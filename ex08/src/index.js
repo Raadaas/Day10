@@ -7,7 +7,7 @@ function getUsername(email) {
     "user3@mail.com": "user3",
     "user4@mail.com": "user4",
     "user5@mail.com": "user5",
-    "user6@mail.com": "user6",
+    "user6@mail.com": "user6"
   };
   username = username[email]
   //Only change code above this line
